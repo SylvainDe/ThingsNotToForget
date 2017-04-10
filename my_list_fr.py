@@ -4,139 +4,141 @@
 
 """Docstring for Python module"""
 
-wallet = [
-    'spare change',
-    'id card',
-    'organ donor card',
-    'debit card',
-    'transportation card',
-    'emergency contacts',
+# WORK IN PROGRESS
+
+portefeuille = [
+    'monnaie',
+    'carte d\identite',
+    'carte de donneur d\'organe',
+    'carte de credit',
+    'carte de transport',
+    'contacts d\'urgence',
 ]
 
-basic_stuff = [
-    wallet,
-    'phone',
-    'keys (home)',
-    'bag',
-    'tissues',
+trucs_de_base = [
+    portefeuille,
+    'telephone',
+    'cles (maison)',
+    'sac',
+    'mouchoirs',
     'tickets restau',
-    'pen and paper',
+    'paper et crayon',
 ]
 
-job = [
-    basic_stuff,
-    'job access card',
+boulot = [
+    trucs_de_base,
+    'badge du boulot',
 ]
 
-tourism_stuff = [
-    'travel guide',
-    'antitheft travel bag',
+trucs_de_tourisme = [
+    'guide de tourisme',
+    'sacoche de voyage antivol',
 ]
 
-medical_appointment = [
-    'health record booklet',
-    'vaccination card',
-    'vitale card',
-    'form of payment (card, checkbook)'
+rdv_medical = [
+    'carnet de sante',
+    'carnet de vaccination',
+    'carte vitale',
+    'moyen de payment (carte de credit, chequier)'
 ]
 
 shopping = [
-    'bags',
-    'loyalty card',
-    'vouchers/gift cards',
+    'sacs',
+    'carte de fidelite',
+    'coupons/bons cadeaux',
 ]
 
-abroad = [
-    'currency',
+etranger = [
+    'devises etrangeres',
     'traveler\'s checks',
-    'AC/DC adaptor',
-    'vaccine/medicine',
-    'visa/passport',
+    'adaptateur electrique',
+    'vaccins/medicaments',
+    'visa/passeport',
 ]
 
-stuff_to_sleep_anywhere = [
-    'earplugs',
-    'eye mask',
-    'travel pillow',
-    'blanket',
+trucs_pour_dormir_partout = [
+    'boules Quies',
+    'masque pour dormir',
+    'oreiller de voyage',
+    'couverture',
 ]
 
-sun_stuff = [
-    'sun screen',
-    'sunburn relief (Biafine)',
-    'sun glasses',
-    'lip sun protection'
-    'cap',
-    'short pants',
+trucs_pour_le_soleil = [
+    'creme solaire',
+    'creme anti-brulure (Biafine)',
+    'lunettes de soleil',
+    'baume a levres solaire'
+    'casquette',
+    'short',
 ]
 
-rain_stuff = [
-    'umbrella',
-    'shoes for the rain',
-    'coat',
+trucs_pour_la_pluie = [
+    'parapluie',
+    'chaussures etanges',
+    'manteau',
     'poncho',
 ]
 
-cold_stuff = [
-    'gloves',
-    'scarf/neck tube',
-    'wooly hat',
+trucs_pour_le_froid = [
+    'gantss',
+    'echarpe/tour de cou',
+    'bonnet',
 ]
 
-very_cold_stuff = [
-    cold_stuff,
-    'warm tights',
-    'warm socks',
-    'ski jackets',
-    'ski pants',
-    'lip balm (cold)',
+trucs_pour_le_tres_froid = [
+    trucs_pour_le_froid,
+    'collants chauds',
+    'grosses chaussettes',
+    'veste de ski'
+    'pantalon de ski',
+    'baume a levre anti-gercures',
 ]
 
-beach_stuff = [
-    'swimming suit (beach)',
-    'towel (beach)',
-    'flip-flop',
-    'beach games (molky, racket ball, foot ball, petanque balls)',
-    'kite',
+trucs_de_plage = [
+    'maillot de bain (plage)',
+    'serviette (plage)',
+    'tongs',
+    'jeux de plage (molky, raquettes, ballon de foot, petanque)',
+    'cerf-volant',
     'drone',
     'aquashoes',
-    'neoprene suit',
-    'bag for wet clothes',
-    sun_stuff,
+    'vetements en neoprene',
+    'sacs pour vetements mouilles',
+    trucs_pour_le_soleil,
 ]
 
-locker_stuff = [
-    'padlock or coin for locker'
+truc_pour_casier = [
+    'cadenas ou piece pour le casier'
 ]
 
-snorkeling_stuff = [
-    'swimming suit',
-    'snorkeling mask',
-    'snorkel',
-    'fins',
+trucs_pour_le_snorkeling = [
+    'maillot de bain',
+    'masque de plongees',
+    'tuba',
+    'palmes',
 ]
 
-first_aid_kit = [
+kit_premiers_soins = [
     'bandages',
     'fever reliever',
 ]
 
-basic_medicine = [
-    first_aid_kit,
+medecine_de_base = [
+    kit_premiers_soins,
     'food supplement',
 ]
 
-hygiene_stuff = [
-    'toothbrush',
-    'toothpaste',
-    'shampoo',
-    'soap',
-    'hair brush/comb',
-    'towel (hygiene)',
-    'ear buds',
+trucs_d_hygiene = [
+    'brosse a dents',
+    'dentifrice',
+    'shampoing',
+    'savon',
+    'peigne/brosse a cheveux',
+    'serviette (pour se laver)',
+    'coton-tiges',
     'deodorant',
-    'hand sanitizer/wet wipes',
-    basic_medicine,
+    'get pour se laver les mains/lingettes',
+    medecine_de_base,
 ]
 
 everyday_clothes = [
@@ -147,7 +149,7 @@ everyday_clothes = [
     'sweat shirt',
 ]
 
-fancy_clothes = [
+vetements_classes = [
     'suit',
     'fancy shirt',
     'collar stays',
@@ -169,16 +171,16 @@ glasses_and_co = [
 
 proper_sleeping_stuff = [
     glasses_and_co,
-    hygiene_stuff,
+    trucs_d_hygiene,
     'pyjama',
     'laundry bag',
     'slippers',
 ]
 
 hostel_stuff = [
-    locker_stuff,
+    truc_pour_casier,
     'flip-flop',
-    stuff_to_sleep_anywhere,
+    trucs_pour_dormir_partout,
     proper_sleeping_stuff,
 ]
 
@@ -241,18 +243,18 @@ gift_stuff = [
     'nice card',
 ]
 
-birthday_stuff = [
-    'candles',
-    'firelighter',
-    'cake',
+trucs_d_anniversaire = [
+    'bougies',
+    'briquet',
+    'gateau',
     gift_stuff,
     camera,
 ]
 
-wedding_stuff = [
+trucs_de_mariage = [
     'invitation',
-    'checkbook',
-    fancy_clothes,
+    'chequier',
+    vetements_classes,
     camera,
 ]
 
@@ -274,7 +276,7 @@ car_stuff = [
 
 long_trip_stuff = [
     'food/drink for the trip',
-    stuff_to_sleep_anywhere,
+    trucs_pour_dormir_partout,
     trip_stuff,
 ]
 
@@ -318,7 +320,7 @@ electronics = [
 ]
 
 london = [
-    abroad,
+    etranger,
     trip_stuff,
     proper_sleeping_stuff,
     'oyster card',
@@ -345,12 +347,12 @@ festival = [
     'tickets',
     'deck of cards',
     gig_stuff,
-    rain_stuff,
+    trucs_pour_la_pluie,
 ]
 
 
 sport_locker_room_stuff = [
-    locker_stuff,
+    truc_pour_casier,
     'towel (sport)',
     'soap',
 ]
@@ -380,8 +382,8 @@ extreme_sport_stuff = [
 ]
 
 skiing_stuff = [
-    sun_stuff,
-    very_cold_stuff,
+    trucs_pour_le_soleil,
+    trucs_pour_le_tres_froid,
     extreme_sport_stuff,
     'ski goggles',
     'ski helmet',
@@ -391,7 +393,7 @@ skiing_stuff = [
 
 
 sauna_hammam = [
-    'towel (sauna)',
+    'serviette (sauna)',
     'bath robe',
     'flip-flop',
     'black soap',
@@ -413,15 +415,15 @@ hiking_stuff = [
     'walking shoes',
     'water',
     'snacks',
-    first_aid_kit,
+    kit_premiers_soins,
     basic_observation,
 ]
 
 interstellar_hitch_hiking_stuff = [
-    'towel',
+    'serviette',
     'Hitchhiker\'s Guide to the Galaxy'
 ]
 
 girl_stuff = [
-    'stuff for period (tampon, sanitary pads, related medicine)',
+    'stuff for period (tampon, sanitary tower, related medicine)',
 ]
