@@ -136,6 +136,16 @@ snorkeling_stuff = [
     'fins',
 ]
 
+first_aid_kit = [
+    'bandages',
+    'fever reliever',
+]
+
+basic_medicine = [
+    first_aid_kit,
+    'food supplement',
+]
+
 hygiene_stuff = [
     'toothbrush',
     'toothpaste',
@@ -145,8 +155,8 @@ hygiene_stuff = [
     'towel (hygiene)',
     'ear buds',
     'deodorant',
-    'basic medicine (bandages, fever reliever, etc)',
     'hand sanitizer/wet wipes',
+    basic_medicine,
 ]
 
 everyday_clothes = [
@@ -160,7 +170,7 @@ everyday_clothes = [
 fancy_clothes = [
     'suit',
     'fancy shirt',
-    '',
+    'collar stays',
     'fancy shoes',
     'belt',
     'tie',
@@ -248,6 +258,7 @@ camera = [
 gift_stuff = [
     'gift',
     'wrapping paper',
+    'nice card',
 ]
 
 birthday_stuff = [
@@ -419,7 +430,10 @@ climbing = [
 hiking_stuff = [
     'maps',
     'compass',
-    'med pack',
+    'walking shoes',
+    'water',
+    'snacks',
+    first_aid_kit,
     basic_observation,
 ]
 
