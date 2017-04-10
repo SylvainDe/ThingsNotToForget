@@ -51,7 +51,6 @@ tourism_stuff = [
     'antitheft travel bag',
 ]
 
-
 medical_appointment = [
     'health record booklet',
     'vaccination card',
@@ -100,16 +99,15 @@ cold_stuff = [
     'gloves',
     'scarf/neck tube',
     'wooly hat',
-    'ski jackets',
-    'ski pants',
-    'lip balm (cold)',
 ]
 
 very_cold_stuff = [
     cold_stuff,
     'warm tights',
     'warm socks',
-
+    'ski jackets',
+    'ski pants',
+    'lip balm (cold)',
 ]
 
 beach_stuff = [
@@ -401,7 +399,7 @@ extreme_sport_stuff = [
 
 skiing_stuff = [
     sun_stuff,
-    cold_stuff,
+    very_cold_stuff,
     extreme_sport_stuff,
     'ski goggles',
     'ski helmet',
