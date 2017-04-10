@@ -441,7 +441,7 @@ interstellar_hitch_hiking_stuff = [
 ]
 
 girl_stuff = [
-    'stuff for period (tampon, sanitary tower, related medicine)',
+    'stuff for period (tampon, sanitary pads, related medicine)',
 ]
 
 
