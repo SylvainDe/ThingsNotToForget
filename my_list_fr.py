@@ -169,7 +169,7 @@ glasses_and_co = [
     'liquid for contact lenses'
 ]
 
-proper_sleeping_stuff = [
+trucs_pour_vraiment_dormir = [
     glasses_and_co,
     trucs_d_hygiene,
     'pyjama',
@@ -181,7 +181,7 @@ hostel_stuff = [
     truc_pour_casier,
     'flip-flop',
     trucs_pour_dormir_partout,
-    proper_sleeping_stuff,
+    trucs_pour_vraiment_dormir,
 ]
 
 bike_stuff = [
@@ -208,7 +208,7 @@ camping_stuff = [
     'flashlight',
     'toilet paper',
     'bin bags',
-    proper_sleeping_stuff,
+    trucs_pour_vraiment_dormir,
     fire_stuff,
 ]
 
@@ -229,194 +229,193 @@ dyi_stuff = [
     'screwdrivers',
 ]
 
-camera = [
-    'camera',
-    'non-full SD card',
-    'charged battery-pack (camera)',
-    'charger (camera)',
-    'tripod',
+appareil_photo = [
+    'appareil_photo',
+    'carte SD non remplie',
+    'batterie chargee (appareil_photo)',
+    'chargeur batterie (appareil_photo)',
+    'trepied',
 ]
 
-gift_stuff = [
-    'gift',
-    'wrapping paper',
-    'nice card',
+cadeau = [
+    'cadeau',
+    'papier cadeau',
+    'carte pour un petit mot',
 ]
 
 trucs_d_anniversaire = [
     'bougies',
     'briquet',
     'gateau',
-    gift_stuff,
-    camera,
+    cadeau,
+    appareil_photo,
 ]
 
 trucs_de_mariage = [
     'invitation',
     'chequier',
     vetements_classes,
-    camera,
+    appareil_photo,
 ]
 
-trip_stuff = [
-    camera,
-    'id/passport',
-    'entertainment for the trip (books, kindle, music, game)',
+trucs_de_voyage = [
+    appareil_photo,
+    'carte d\'identite/passeport',
+    'occupations pour le voyage (livres, kindle, musique, jeu)',
 ]
 
-car_stuff = [
+trucs_de_voiture = [
     'GPS',
-    'license',
-    'registration certificate',
-    'car keys',
-    'car lighter charger',
-    'music playable in the car (USB sticks, line-in cable, etc)',
-    'motion sickness pills',
+    'permis de conduire',
+    'papiers du vehicule',
+    'cles de voiture',
+    'adaptateur allume-cigares',
+    'musique jouable dans la voiture (cles USB sticks, cable line-in, etc)',
+    'medicaments contre le mal du transport',
 ]
 
-long_trip_stuff = [
-    'food/drink for the trip',
+trucs_de_long_voyage = [
+    'nourriture/boisson pour le voyage',
     trucs_pour_dormir_partout,
-    trip_stuff,
+    trucs_de_voyage,
 ]
 
-train_trip_stuff = [
+trucs_de_voyage_en_train = [
     'tickets',
-    'discount card',
-    trip_stuff,
+    'carte de reduction',
+    trucs_de_voyage,
 ]
 
-flight_trip_stuff = [
-    '/!\ nothing dangerous',
-    '/!\ liquids in little bags'
-    'tickets and/or boarding pass',
-    trip_stuff,
+trucs_de_voyage_en_avion = [
+    '/!\ rien de dangereux',
+    '/!\ liquide dans des petits sacs'
+    'tickets et/ou boarding pass',
+    trucs_de_voyage,
 ]
 
 picnic_stuff = [
-    'bottle opener/corkscrew',
-    'disposable cutlery/plates/cups',
-    'kitchen roll',
-    'bin bags',
-    'blanket',
+    'ouvre-bouteille/decapsuleur',
+    'couverts/assiettes/gobelets jetables',
+    'essuie-tout',
+    'sacs poubelle',
+    'couverture',
 ]
 
 things_to_download_and_or_print = [
-    'bookings (flights, trains, car, hotels, etc)',
-    'addresses (hotels, friends)'
-    'messaging app',
-    'offline maps',
+    'reservations (vols, trains, voiture, hotels, etc)',
+    'addresses (hotels, amis)'
+    'app de messagerie',
+    'cartes offline',
     'yuge',
 ]
 
 electronics = [
-    'computer',
-    'charger (computer)',
-    'phone',
-    'charger (phone)',
-    'watch',
-    'charger (watch)',
-    'multi-socket adaptor',
+    'ordinateur',
+    'chargeur (ordinateur)',
+    'telephone',
+    'chargeur (telephone)',
+    'montre',
+    'chargeur (montre)',
+    'multiprise',
 ]
 
 london = [
     etranger,
-    trip_stuff,
-    proper_sleeping_stuff,
+    trucs_de_voyage,
+    trucs_pour_vraiment_dormir,
     'oyster card',
 ]
 
-basic_observation = [
-    'binoculars',
+observation = [
+    'jumelles',
 ]
 
-show_stuff = [
-    'binoculars',
+trucs_de_spectacle = [
+    'jumelles',
 ]
 
-gig_stuff = [
-    show_stuff,
-    'earplugs',
-    'water bottle with additional caps'
+trucs_de_concerts = [
+    trucs_de_spectacle,
+    'boules Quies',
+    'bouteilles d\'eau avec des bouchons en plus'
 ]
 
 festival = [
-    'earplugs',
-    'water',
+    'eau',
     'biscuits',
     'tickets',
-    'deck of cards',
-    gig_stuff,
+    'jeu de cartes',
+    trucs_de_concerts,
     trucs_pour_la_pluie,
 ]
 
 
-sport_locker_room_stuff = [
+affaires_de_vestiaires = [
     truc_pour_casier,
-    'towel (sport)',
-    'soap',
+    'serviette (sport)',
+    'savon',
 ]
 
 
-swimming_pool_stuff = [
-    sport_locker_room_stuff,
-    'swimming suit (swimming-pool)',
-    'swimming hat',
-    'nose clip',
-    'fins',
+trucs_de_piscine = [
+    affaires_de_vestiaires,
+    'maillot de bain (piscine)',
+    'bonnet de bain',
+    'pince nez',
+    'palmes',
     'pull-buoy'
-    'bag for wet clothes',
+    'sacs pour vetements mouilles',
 ]
 
-sport_stuff = [
-    sport_locker_room_stuff,
-    'water (bottle or flask)',
-    'sport clothes (shorts, tshirt)',
-    'clean clothes',
+trucs_de_sports = [
+    affaires_de_vestiaires,
+    'eau (bouteille ou gourde)',
+    'vetements de sport (short, tshirt)',
+    'vetement de rechange',
 ]
 
 
-extreme_sport_stuff = [
-    sport_stuff,
-    'eyeglass strap',
+trucs_sports_extremes = [
+    trucs_de_sports,
+    'cordon pour lunettes',
 ]
 
-skiing_stuff = [
+trucs_de_ski = [
     trucs_pour_le_soleil,
     trucs_pour_le_tres_froid,
-    extreme_sport_stuff,
-    'ski goggles',
-    'ski helmet',
-    'snow boot',
-    'muscle healing cream',
+    trucs_sports_extremes,
+    'masque de ski',
+    'casque de ski',
+    'apres-ski',
+    'creme apaisante pour les muscles',
 ]
 
 
 sauna_hammam = [
     'serviette (sauna)',
-    'bath robe',
-    'flip-flop',
-    'black soap',
-    'scrubbing glove',
+    'peignoir',
+    'tongs',
+    'savon noir',
+    'gant de toilettes grattant',
 ]
 
-climbing = [
-    extreme_sport_stuff,
-    'climbing shoes',
-    'harness',
-    'rope'
-    'climbing stuff',
-    'nail clippers',
+escalade = [
+    trucs_sports_extremes,
+    'chaussons d\'escalade',
+    'baudrier',
+    'corde'
+    'vetements d\'escalade',
+    'coupe-ongles',
 ]
 
-hiking_stuff = [
-    'maps',
-    'compass',
-    'walking shoes',
-    'water',
+trucs_de_rando = [
+    'cartes',
+    'boussolle',
+    'chaussures de rando',
+    'eau',
     'snacks',
     kit_premiers_soins,
-    basic_observation,
+    observation,
 ]
 
 interstellar_hitch_hiking_stuff = [
@@ -424,6 +423,6 @@ interstellar_hitch_hiking_stuff = [
     'Hitchhiker\'s Guide to the Galaxy'
 ]
 
-girl_stuff = [
-    'stuff for period (tampon, sanitary tower, related medicine)',
+trucs_de_filles = [
+    'trucs pour les regles (tampons, serviettes, medicaments qui vont bien)',
 ]
