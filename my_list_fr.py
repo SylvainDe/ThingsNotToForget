@@ -120,12 +120,12 @@ trucs_pour_le_snorkeling = [
 
 kit_premiers_soins = [
     'bandages',
-    'fever reliever',
+    'medicaments contre la fievre',
 ]
 
 medecine_de_base = [
     kit_premiers_soins,
-    'food supplement',
+    'complements alimentaires',
 ]
 
 trucs_d_hygiene = [
@@ -141,92 +141,92 @@ trucs_d_hygiene = [
     medecine_de_base,
 ]
 
-everyday_clothes = [
-    'socks',
-    'underwears',
-    'pants/jeans',
-    'tshirts/shirts',
-    'sweat shirt',
+vetements_de_tous_les_jours = [
+    'chausettes',
+    'sous-vetements',
+    'pantalon/jeans',
+    'tshirts/chemises',
+    'pull',
 ]
 
 vetements_classes = [
-    'suit',
-    'fancy shirt',
-    'collar stays',
-    'fancy shoes',
-    'belt',
-    'tie',
-    'cufflink',
-    'shaving stuff (razor, cream, etc)',
-    'make up'
+    'costume',
+    'chemise classe',
+    'baleines de col',
+    'chaussures classes',
+    'ceinture',
+    'cravatte',
+    'boutons de manchette',
+    'materiel de rasage (rasoir, creme, etc)',
+    'maquillage'
 ]
 
-glasses_and_co = [
-    'glasses',
-    'eyeglass case',
-    'contact lenses',
-    'box for contact lenses',
-    'liquid for contact lenses'
+trucs_optiques = [
+    'lunettes',
+    'boite a lunettes',
+    'lentilles de contact',
+    'boite a lentilles de contact',
+    'liquide pour lentilles de contact'
 ]
 
 trucs_pour_vraiment_dormir = [
-    glasses_and_co,
+    trucs_optiques,
     trucs_d_hygiene,
     'pyjama',
-    'laundry bag',
-    'slippers',
+    'sac a linge sale',
+    'chaussons',
 ]
 
-hostel_stuff = [
+trucs_d_auberge_de_jeunesse = [
     truc_pour_casier,
-    'flip-flop',
+    'tongs',
     trucs_pour_dormir_partout,
     trucs_pour_vraiment_dormir,
 ]
 
-bike_stuff = [
-    'bike',
-    'bike lights',
-    'bike repair kit',
+trucs_de_velo = [
+    'velo',
+    'lampes de velo',
+    'kit de reparation de velo',
 ]
 
-tropical_stuff = [
-    'bug repellent',
-    'mosquito net',
-    'sting reliever',
+trucs_pour_zones_tropicales = [
+    'anti-moustiques',
+    'mousticaire',
+    'trucs anti-piqures',
 ]
 
-fire_stuff = [
-    'firelighter',
+trucs_pour_faire_du_feu = [
+    'allume-feu',
 ]
 
-camping_stuff = [
+trucs_de_camping = [
     'tente',
-    '(inflatable) mat',
-    'pump for the mat',
-    'sleeping bag',
-    'flashlight',
-    'toilet paper',
-    'bin bags',
+    'matelas pneumatique',
+    'pompe a matelas',
+    'sac de couchage',
+    'lampe de poche',
+    'papier toilette',
+    'sacs poubelle',
     trucs_pour_vraiment_dormir,
-    fire_stuff,
+    trucs_pour_faire_du_feu,
 ]
 
-cleaning_stuff = [
-    'bin bags',
-    'kitchen roll',
-    'toilet paper',
-    'dish soap',
-    'sponge',
-    'dish tower',
+materiel_de_nettoyage = [
+    'sacs poubelle',
+    'essuie-tout',
+    'papier toilette',
+    'liquide vaisselle',
+    'eponge',
+    'torchon a vaiselle',
 ]
 
-dyi_stuff = [
-    'protection mask',
-    'protection glasses',
-    'protection gloves',
-    'hammer',
-    'screwdrivers',
+material_de_bricolage = [
+    'masque de protection',
+    'lunettes de protection',
+    'gants de protection',
+    'marteau',
+    'tournevis',
 ]
 
 appareil_photo = [
