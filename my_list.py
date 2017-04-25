@@ -81,6 +81,7 @@ cold_stuff = [
     'gloves',
     'scarf/neck tube',
     'wooly hat',
+    'hand cream',
 ]
 
 very_cold_stuff = [
@@ -92,17 +93,25 @@ very_cold_stuff = [
     'lip balm (cold)',
 ]
 
+outside_games = [
+    'molky',
+    'racket ball',
+    'foot ball',
+    'petanque balls',
+    'flying disk',
+    'kite',
+    'drone',
+]
+
 beach_stuff = [
     'swimming suit (beach)',
     'towel (beach)',
     'flip-flop',
-    'beach games (molky, racket ball, foot ball, petanque balls)',
-    'kite',
-    'drone',
     'aquashoes',
     'neoprene suit',
     'bag for wet clothes',
     sun_stuff,
+    outside_games,
 ]
 
 locker_stuff = [
@@ -297,6 +306,7 @@ picnic_stuff = [
     'kitchen roll',
     'bin bags',
     'blanket',
+    outside_games,
 ]
 
 things_to_download_and_or_print = [

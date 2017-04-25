@@ -83,6 +83,7 @@ trucs_pour_le_froid = [
     'gantss',
     'echarpe/tour de cou',
     'bonnet',
+    'creme pour les mains',
 ]
 
 trucs_pour_le_tres_froid = [
@@ -94,17 +95,25 @@ trucs_pour_le_tres_froid = [
     'baume a levre anti-gercures',
 ]
 
+jeux_d_exterieur = [
+    'molky',
+    'raquettes',
+    'ballon de foot'
+    'petanque',
+    'frisbee',
+    'cerf-volant',
+    'drone',
+]
+
 trucs_de_plage = [
     'maillot de bain (plage)',
     'serviette (plage)',
     'tongs',
-    'jeux de plage (molky, raquettes, ballon de foot, petanque)',
-    'cerf-volant',
-    'drone',
     'aquashoes',
     'vetements en neoprene',
     'sacs pour vetements mouilles',
     trucs_pour_le_soleil,
+    jeux_d_exterieur,
 ]
 
 truc_pour_casier = [
@@ -293,12 +302,13 @@ trucs_de_voyage_en_avion = [
     trucs_de_voyage,
 ]
 
-picnic_stuff = [
+trucs_de_piquenique = [
     'ouvre-bouteille/decapsuleur',
     'couverts/assiettes/gobelets jetables',
     'essuie-tout',
     'sacs poubelle',
     'couverture',
+    jeux_d_exterieur,
 ]
 
 things_to_download_and_or_print = [
