@@ -133,7 +133,9 @@ kit_premiers_soins = [
 
 medecine_de_base = [
     kit_premiers_soins,
+    'ordonnance',
     'complements alimentaires',
+    'preservatifs',
 ]
 
 trucs_d_hygiene = [

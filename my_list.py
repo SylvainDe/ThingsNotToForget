@@ -133,7 +133,9 @@ first_aid_kit = [
 
 basic_medicine = [
     first_aid_kit,
+    'prescriptions',
     'food supplement',
+    'condoms',
 ]
 
 hygiene_stuff = [
