@@ -373,6 +373,12 @@ observation = [
 
 trucs_de_spectacle = [
     'jumelles',
+    'tickets',
+]
+
+trucs_de_theatre = [
+    trucs_de_spectacle,
+    'monnaie pour les ouvreuses',
 ]
 
 trucs_de_concerts = [
@@ -382,10 +388,8 @@ trucs_de_concerts = [
 ]
 
 festival = [
-    'boules Quies',
     'eau',
     'biscuits',
-    'tickets',
     'jeu de cartes',
     trucs_de_concerts,
     trucs_pour_la_pluie,

@@ -373,6 +373,12 @@ basic_observation = [
 
 show_stuff = [
     'binoculars',
+    'tickets',
+]
+
+theater_stuff = [
+    show_stuff,
+    'change for the ushers',
 ]
 
 gig_stuff = [
@@ -382,10 +388,8 @@ gig_stuff = [
 ]
 
 festival = [
-    'earplugs',
     'water',
     'biscuits',
-    'tickets',
     'deck of cards',
     gig_stuff,
     rain_stuff,
