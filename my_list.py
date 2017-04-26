@@ -38,7 +38,7 @@ medical_appointment = [
     'health record booklet',
     'vaccination card',
     'vitale card',
-    'form of payment (card, checkbook)'
+    'form of payment (card, checkbook)',
 ]
 
 shopping = [
@@ -66,7 +66,7 @@ sun_stuff = [
     'sun screen',
     'sunburn relief (Biafine)',
     'sun glasses',
-    'lip sun protection'
+    'lip sun protection',
     'cap',
     'short pants',
 ]
@@ -116,7 +116,7 @@ beach_stuff = [
 ]
 
 locker_stuff = [
-    'padlock or coin for locker'
+    'padlock or coin for locker',
 ]
 
 snorkeling_stuff = [
@@ -174,7 +174,7 @@ fancy_clothes = [
     'tie',
     'cufflink',
     'shaving stuff (razor, cream, etc)',
-    'make up'
+    'make up',
 ]
 
 glasses_and_co = [
@@ -182,7 +182,7 @@ glasses_and_co = [
     'eyeglass case',
     'contact lenses',
     'box for contact lenses',
-    'liquid for contact lenses'
+    'liquid for contact lenses',
 ]
 
 proper_sleeping_stuff = [
@@ -328,7 +328,7 @@ train_trip_stuff = [
 
 flight_trip_stuff = [
     '/!\ nothing dangerous',
-    '/!\ liquids in little bags'
+    '/!\ liquids in little bags',
     'tickets and/or boarding pass',
     trip_stuff,
 ]
@@ -344,7 +344,7 @@ picnic_stuff = [
 
 things_to_download_and_or_print = [
     'bookings (flights, trains, car, hotels, etc)',
-    'addresses (hotels, friends)'
+    'addresses (hotels, friends)',
     'messaging app',
     'offline maps',
     'yuge',
@@ -378,7 +378,7 @@ show_stuff = [
 gig_stuff = [
     show_stuff,
     'earplugs',
-    'water bottle with additional caps'
+    'water bottle with additional caps',
 ]
 
 festival = [
@@ -398,7 +398,7 @@ swimming_pool_stuff = [
     'swimming hat',
     'nose clip',
     'fins',
-    'pull-buoy'
+    'pull-buoy',
     'bag for wet clothes',
 ]
 
@@ -442,7 +442,7 @@ hiking_stuff = [
 
 interstellar_hitch_hiking_stuff = [
     'towel',
-    'Hitchhiker\'s Guide to the Galaxy'
+    'Hitchhiker\'s Guide to the Galaxy',
 ]
 
 girl_stuff = [

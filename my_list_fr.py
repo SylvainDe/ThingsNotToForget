@@ -38,7 +38,7 @@ rdv_medical = [
     'carnet de sante',
     'carnet de vaccination',
     'carte vitale',
-    'moyen de payment (carte de credit, chequier)'
+    'moyen de payment (carte de credit, chequier)',
 ]
 
 shopping = [
@@ -66,7 +66,7 @@ trucs_pour_le_soleil = [
     'creme solaire',
     'creme anti-brulure (Biafine)',
     'lunettes de soleil',
-    'baume a levres solaire'
+    'baume a levres solaire',
     'casquette',
     'short',
 ]
@@ -89,7 +89,7 @@ trucs_pour_le_tres_froid = [
     trucs_pour_le_froid,
     'collants chauds',
     'grosses chaussettes',
-    'veste de ski'
+    'veste de ski',
     'pantalon de ski',
     'baume a levre anti-gercures',
 ]
@@ -97,7 +97,7 @@ trucs_pour_le_tres_froid = [
 jeux_d_exterieur = [
     'molky',
     'raquettes',
-    'ballon de foot'
+    'ballon de foot',
     'petanque',
     'frisbee',
     'cerf-volant',
@@ -116,7 +116,7 @@ trucs_de_plage = [
 ]
 
 truc_pour_casier = [
-    'cadenas ou piece pour le casier'
+    'cadenas ou piece pour le casier',
 ]
 
 trucs_pour_le_snorkeling = [
@@ -174,7 +174,7 @@ vetements_classes = [
     'cravatte',
     'boutons de manchette',
     'materiel de rasage (rasoir, creme, etc)',
-    'maquillage'
+    'maquillage',
 ]
 
 trucs_optiques = [
@@ -182,7 +182,7 @@ trucs_optiques = [
     'boite a lunettes',
     'lentilles de contact',
     'boite a lentilles de contact',
-    'liquide pour lentilles de contact'
+    'liquide pour lentilles de contact',
 ]
 
 trucs_pour_vraiment_dormir = [
@@ -216,7 +216,7 @@ trucs_de_sports = [
 trucs_sports_extremes = [
     trucs_de_sports,
     'cordon pour lunettes',
-    'camera d action (et accessoires)',
+    'camera d\'action (et accessoires)',
     'montre etanche qui ne craint rien',
 ]
 
@@ -328,7 +328,7 @@ trucs_de_voyage_en_train = [
 
 trucs_de_voyage_en_avion = [
     '/!\ rien de dangereux',
-    '/!\ liquide dans des petits sacs'
+    '/!\ liquide dans des petits sacs',
     'tickets et/ou boarding pass',
     trucs_de_voyage,
 ]
@@ -344,7 +344,7 @@ trucs_de_piquenique = [
 
 things_to_download_and_or_print = [
     'reservations (vols, trains, voiture, hotels, etc)',
-    'addresses (hotels, amis)'
+    'addresses (hotels, amis)',
     'app de messagerie',
     'cartes offline',
     'yuge',
@@ -378,7 +378,7 @@ trucs_de_spectacle = [
 trucs_de_concerts = [
     trucs_de_spectacle,
     'boules Quies',
-    'bouteilles d\'eau avec des bouchons en plus'
+    'bouteilles d\'eau avec des bouchons en plus',
 ]
 
 festival = [
@@ -398,7 +398,7 @@ trucs_de_piscine = [
     'bonnet de bain',
     'pince nez',
     'palmes',
-    'pull-buoy'
+    'pull-buoy',
     'sacs pour vetements mouilles',
 ]
 
@@ -442,7 +442,7 @@ trucs_de_rando = [
 
 interstellar_hitch_hiking_stuff = [
     'serviette',
-    'Hitchhiker\'s Guide to the Galaxy'
+    'Hitchhiker\'s Guide to the Galaxy',
 ]
 
 trucs_de_filles = [
