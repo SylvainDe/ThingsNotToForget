@@ -192,6 +192,26 @@ hostel_stuff = [
     proper_sleeping_stuff,
 ]
 
+sport_locker_room_stuff = [
+    locker_stuff,
+    'towel (sport)',
+    'soap',
+]
+
+sport_stuff = [
+    sport_locker_room_stuff,
+    'water (bottle or flask)',
+    'sport clothes (shorts, tshirt)',
+    'clean clothes',
+]
+
+extreme_sport_stuff = [
+    sport_stuff,
+    'eyeglass strap',
+    'action camera (and accessories)',
+    'cheap waterproof watch',
+]
+
 bike_stuff = [
     'bike',
     'bike lights',
@@ -364,13 +384,6 @@ festival = [
 ]
 
 
-sport_locker_room_stuff = [
-    locker_stuff,
-    'towel (sport)',
-    'soap',
-]
-
-
 swimming_pool_stuff = [
     sport_locker_room_stuff,
     'swimming suit (swimming-pool)',
@@ -379,21 +392,6 @@ swimming_pool_stuff = [
     'fins',
     'pull-buoy'
     'bag for wet clothes',
-]
-
-sport_stuff = [
-    sport_locker_room_stuff,
-    'water (bottle or flask)',
-    'sport clothes (shorts, tshirt)',
-    'clean clothes',
-]
-
-
-extreme_sport_stuff = [
-    sport_stuff,
-    'eyeglass strap',
-    'action camera (and accessories)',
-    'cheap waterproof watch',
 ]
 
 skiing_stuff = [

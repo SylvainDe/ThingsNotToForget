@@ -192,6 +192,26 @@ trucs_d_auberge_de_jeunesse = [
     trucs_pour_vraiment_dormir,
 ]
 
+affaires_de_vestiaires = [
+    truc_pour_casier,
+    'serviette (sport)',
+    'savon',
+]
+
+trucs_de_sports = [
+    affaires_de_vestiaires,
+    'eau (bouteille ou gourde)',
+    'vetements de sport (short, tshirt)',
+    'vetement de rechange',
+]
+
+trucs_sports_extremes = [
+    trucs_de_sports,
+    'cordon pour lunettes',
+    'camera d action (et accessoires)',
+    'montre etanche qui ne craint rien',
+]
+
 trucs_de_velo = [
     'velo',
     'lampes de velo',
@@ -364,13 +384,6 @@ festival = [
 ]
 
 
-affaires_de_vestiaires = [
-    truc_pour_casier,
-    'serviette (sport)',
-    'savon',
-]
-
-
 trucs_de_piscine = [
     affaires_de_vestiaires,
     'maillot de bain (piscine)',
@@ -379,21 +392,6 @@ trucs_de_piscine = [
     'palmes',
     'pull-buoy'
     'sacs pour vetements mouilles',
-]
-
-trucs_de_sports = [
-    affaires_de_vestiaires,
-    'eau (bouteille ou gourde)',
-    'vetements de sport (short, tshirt)',
-    'vetement de rechange',
-]
-
-
-trucs_sports_extremes = [
-    trucs_de_sports,
-    'cordon pour lunettes',
-    'camera d action (et accessoires)',
-    'montre etanche qui ne craint rien',
 ]
 
 trucs_de_ski = [
