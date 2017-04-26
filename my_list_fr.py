@@ -4,8 +4,6 @@
 
 """Docstring for Python module"""
 
-# WORK IN PROGRESS
-
 portefeuille = [
     'monnaie',
     'carte d\identite',
@@ -351,6 +349,7 @@ trucs_de_concerts = [
 ]
 
 festival = [
+    'boules Quies',
     'eau',
     'biscuits',
     'tickets',
