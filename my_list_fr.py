@@ -138,17 +138,22 @@ medecine_de_base = [
     'preservatifs',
 ]
 
+trucs_de_coiffure = [
+    'brosse a cheveux',
+    'peigne',
+]
+
 trucs_d_hygiene = [
     'brosse a dents',
     'dentifrice',
     'shampoing',
     'savon',
-    'peigne/brosse a cheveux',
     'serviette (pour se laver)',
     'coton-tiges',
     'deodorant',
     'get pour se laver les mains/lingettes',
     medecine_de_base,
+    trucs_de_coiffure,
 ]
 
 vetements_de_tous_les_jours = [

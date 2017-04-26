@@ -138,17 +138,22 @@ basic_medicine = [
     'condoms',
 ]
 
+hair_stuff = [
+    'hair brush',
+    'comb',
+]
+
 hygiene_stuff = [
     'toothbrush',
     'toothpaste',
     'shampoo',
     'soap',
-    'hair brush/comb',
     'towel (hygiene)',
     'cotton buds',
     'deodorant',
     'hand sanitizer/wet wipes',
     basic_medicine,
+    hair_stuff,
 ]
 
 everyday_clothes = [
