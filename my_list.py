@@ -425,9 +425,14 @@ climbing = [
     extreme_sport_stuff,
     'climbing shoes',
     'harness',
-    'rope'
-    'climbing stuff',
+    'rope',
+    'climbing clothes',
+    'descender',
+    'quickdraws',
+    'chalk',
+    'belay gloves',
     'nail clippers',
+    'tickets/card if indoor climbing',
 ]
 
 hiking_stuff = [

@@ -425,9 +425,14 @@ escalade = [
     trucs_sports_extremes,
     'chaussons d\'escalade',
     'baudrier',
-    'corde'
+    'corde',
     'vetements d\'escalade',
+    'descendeur',
+    'degaines',
+    'magnesie ou pof',
+    'gants d\'assurage',
     'coupe-ongles',
+    'tickets/carte si en interieur',
 ]
 
 trucs_de_rando = [
