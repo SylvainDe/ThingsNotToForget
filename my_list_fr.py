@@ -148,6 +148,7 @@ trucs_d_hygiene = [
     'dentifrice',
     'shampoing',
     'savon',
+    'gant de toilette',
     'serviette (pour se laver)',
     'coton-tiges',
     'deodorant',

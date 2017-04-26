@@ -148,6 +148,7 @@ hygiene_stuff = [
     'toothpaste',
     'shampoo',
     'soap',
+    'washing mitt',
     'towel (hygiene)',
     'cotton buds',
     'deodorant',
