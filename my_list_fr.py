@@ -21,6 +21,7 @@ trucs_de_base = [
     'mouchoirs',
     'tickets restau',
     'paper et crayon',
+    'casque audio/ecouteurs',
 ]
 
 boulot = [
@@ -194,7 +195,11 @@ trucs_d_auberge_de_jeunesse = [
 trucs_de_velo = [
     'velo',
     'lampes de velo',
+    'pompe a velo',
+    'chambre a air',
     'kit de reparation de velo',
+    'porte-cartes/porte-telephone pour velo',
+    trucs_sports_extremes,
 ]
 
 trucs_pour_zones_tropicales = [
@@ -387,6 +392,8 @@ trucs_de_sports = [
 trucs_sports_extremes = [
     trucs_de_sports,
     'cordon pour lunettes',
+    'camera d action (et accessoires)',
+    'montre etanche qui ne craint rien',
 ]
 
 trucs_de_ski = [

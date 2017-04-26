@@ -21,6 +21,7 @@ basic_stuff = [
     'tissues',
     'tickets restau',
     'pen and paper',
+    'headphone',
 ]
 
 job = [
@@ -142,7 +143,7 @@ hygiene_stuff = [
     'soap',
     'hair brush/comb',
     'towel (hygiene)',
-    'ear buds',
+    'cotton buds',
     'deodorant',
     'hand sanitizer/wet wipes',
     basic_medicine,
@@ -194,7 +195,11 @@ hostel_stuff = [
 bike_stuff = [
     'bike',
     'bike lights',
+    'bike pump',
+    'bike inner tube',
     'bike repair kit',
+    'bike map holder/phone holder',
+    extreme_sport_stuff,
 ]
 
 tropical_stuff = [
@@ -387,6 +392,8 @@ sport_stuff = [
 extreme_sport_stuff = [
     sport_stuff,
     'eyeglass strap',
+    'action camera (and accessories)',
+    'cheap waterproof watch',
 ]
 
 skiing_stuff = [
