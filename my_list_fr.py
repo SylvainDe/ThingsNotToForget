@@ -361,7 +361,7 @@ trucs_a_telecharger_ou_a_imprimer = [
     'app de messagerie',
     'cartes offline',
     'yuge',
-    'musique/films/series',
+    'musique/films/series/livres/audiobooks/podcasts',
 ]
 
 electronique = [
