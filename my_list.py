@@ -361,6 +361,7 @@ things_to_download_and_or_print = [
     'messaging app',
     'offline maps',
     'yuge',
+    'music/movies/tvshows',
 ]
 
 electronics = [
