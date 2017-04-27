@@ -73,13 +73,13 @@ trucs_pour_le_soleil = [
 
 trucs_pour_la_pluie = [
     'parapluie',
-    'chaussures etanges',
+    'chaussures etanches',
     'manteau',
     'poncho',
 ]
 
 trucs_pour_le_froid = [
-    'gantss',
+    'gants',
     'echarpe/tour de cou',
     'bonnet',
     'creme pour les mains',
@@ -152,7 +152,7 @@ trucs_d_hygiene = [
     'serviette (pour se laver)',
     'coton-tiges',
     'deodorant',
-    'get pour se laver les mains/lingettes',
+    'gel pour se laver les mains/lingettes',
     medecine_de_base,
     trucs_de_coiffure,
 ]
@@ -355,7 +355,7 @@ trucs_de_piquenique = [
     jeux_d_exterieur,
 ]
 
-things_to_download_and_or_print = [
+trucs_a_telecharger_ou_a_imprimer = [
     'reservations (vols, trains, voiture, hotels, etc)',
     'addresses (hotels, amis)',
     'app de messagerie',
@@ -363,7 +363,7 @@ things_to_download_and_or_print = [
     'yuge',
 ]
 
-electronics = [
+electronique = [
     'ordinateur',
     'chargeur (ordinateur)',
     'telephone',
