@@ -165,16 +165,29 @@ everyday_clothes = [
     'sweat shirt',
 ]
 
-fancy_clothes = [
+makeup = [
+    'makeup',
+    'makeup remover',
+]
+
+fancy_clothes_woman = [
+    makeup,
+]
+
+fancy_clothes_man = [
     'suit',
     'fancy shirt',
     'collar stays',
-    'fancy shoes',
     'belt',
     'tie',
     'cufflink',
     'shaving stuff (razor, cream, etc)',
-    'make up',
+]
+
+fancy_clothes = [
+    'fancy shoes',
+    fancy_clothes_woman,
+    fancy_clothes_man,
 ]
 
 glasses_and_co = [

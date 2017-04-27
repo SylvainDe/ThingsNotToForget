@@ -165,16 +165,29 @@ vetements_de_tous_les_jours = [
     'pull',
 ]
 
-vetements_classes = [
+maquillage = [
+    'maquillage',
+    'demaquillant',
+]
+
+vetements_classes_femme = [
+    maquillage,
+]
+
+vetements_classes_homme = [
     'costume',
     'chemise classe',
     'baleines de col',
-    'chaussures classes',
     'ceinture',
     'cravatte',
     'boutons de manchette',
     'materiel de rasage (rasoir, creme, etc)',
-    'maquillage',
+]
+
+vetements_classes = [
+    'chaussures classes',
+    vetements_classes_femme,
+    vetements_classes_homme,
 ]
 
 trucs_optiques = [
