@@ -6,7 +6,7 @@
 
 portefeuille = [
     'monnaie',
-    'carte d\identite',
+    'carte d\'identite',
     'carte de donneur d\'organe',
     'carte de credit',
     'carte de transport',
