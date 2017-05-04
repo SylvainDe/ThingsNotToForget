@@ -53,6 +53,7 @@ etranger = [
     'adaptateur electrique',
     'vaccins/medicaments',
     'visa/passeport',
+    'vocabulaire minimal dans la langue etrangere',
 ]
 
 trucs_pour_dormir_partout = [
@@ -360,6 +361,7 @@ trucs_a_telecharger_ou_a_imprimer = [
     'addresses (hotels, amis)',
     'app de messagerie',
     'cartes offline',
+    'app pour faire les comptes',
     'yuge',
     'musique/films/series/livres/audiobooks/podcasts',
 ]

@@ -53,6 +53,7 @@ abroad = [
     'AC/DC adaptor',
     'vaccine/medicine',
     'visa/passport',
+    'list of words/phrases in foreign language',
 ]
 
 stuff_to_sleep_anywhere = [
@@ -360,6 +361,7 @@ things_to_download_and_or_print = [
     'addresses (hotels, friends)',
     'messaging app',
     'offline maps',
+    'app to split expenses',
     'yuge',
     'music/movies/tvshows/books/audiobooks/podcasts',
 ]
