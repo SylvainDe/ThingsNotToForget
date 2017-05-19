@@ -325,6 +325,7 @@ car_stuff = [
     'car keys',
     'car lighter charger',
     'music playable in the car (USB sticks, line-in cable, etc)',
+    'car phone mount',
     'motion sickness pills',
 ]
 
@@ -344,6 +345,7 @@ flight_trip_stuff = [
     '/!\ nothing dangerous',
     '/!\ liquids in little bags',
     'tickets and/or boarding pass',
+    'support stockings',
     trip_stuff,
 ]
 
@@ -361,6 +363,7 @@ things_to_download_and_or_print = [
     'addresses (hotels, friends)',
     'messaging app',
     'offline maps',
+    'offline dictionnary',
     'app to split expenses',
     'yuge',
     'music/movies/tvshows/books/audiobooks/podcasts',
@@ -459,6 +462,7 @@ hiking_stuff = [
     'maps',
     'compass',
     'walking shoes',
+    'walking poles',
     'water',
     'snacks',
     first_aid_kit,

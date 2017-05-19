@@ -325,6 +325,7 @@ trucs_de_voiture = [
     'cles de voiture',
     'adaptateur allume-cigares',
     'musique jouable dans la voiture (cles USB sticks, cable line-in, etc)',
+    'support pour telephone',
     'medicaments contre le mal du transport',
 ]
 
@@ -344,6 +345,7 @@ trucs_de_voyage_en_avion = [
     '/!\ rien de dangereux',
     '/!\ liquide dans des petits sacs',
     'tickets et/ou boarding pass',
+    'chaussettes de contention',
     trucs_de_voyage,
 ]
 
@@ -360,7 +362,8 @@ trucs_a_telecharger_ou_a_imprimer = [
     'reservations (vols, trains, voiture, hotels, etc)',
     'addresses (hotels, amis)',
     'app de messagerie',
-    'cartes offline',
+    'cartes routieres hors-ligne',
+    'dictionnaire hors-ligne',
     'app pour faire les comptes',
     'yuge',
     'musique/films/series/livres/audiobooks/podcasts',
@@ -457,8 +460,9 @@ escalade = [
 
 trucs_de_rando = [
     'cartes',
-    'boussolle',
+    'boussole',
     'chaussures de rando',
+    'batons de marche',
     'eau',
     'snacks',
     kit_premiers_soins,
