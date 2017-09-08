@@ -310,11 +310,22 @@ trucs_d_anniversaire = [
     appareil_photo,
 ]
 
+trucs_d_eglise = [
+    'monnaie pour la quete',
+]
+
 trucs_de_mariage = [
     'invitation',
     'chequier',
     vetements_classes,
     appareil_photo,
+    trucs_d_eglise,
+]
+
+trucs_d_enterrement = [
+    'mouchoirs',
+    vetements_classes,
+    trucs_d_eglise,
 ]
 
 trucs_de_voyage = [

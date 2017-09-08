@@ -310,11 +310,22 @@ birthday_stuff = [
     camera,
 ]
 
+church_stuff = [
+    'change for donations',
+]
+
 wedding_stuff = [
     'invitation',
     'checkbook',
     fancy_clothes,
     camera,
+    church_stuff,
+]
+
+funeral_stuff = [
+    'tissues',
+    fancy_clothes,
+    church_stuff,
 ]
 
 trip_stuff = [
