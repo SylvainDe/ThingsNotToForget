@@ -320,7 +320,7 @@ trucs_de_voyage = [
 
 trucs_de_voiture = [
     'GPS',
-    'permis de conduire',
+    'permis de conduire (+ permis international ou traduction)',
     'papiers du vehicule',
     'cles de voiture',
     'adaptateur allume-cigares',

@@ -320,7 +320,7 @@ trip_stuff = [
 
 car_stuff = [
     'GPS',
-    'license',
+    'license (+ international license or translation)',
     'registration certificate',
     'car keys',
     'car lighter charger',
