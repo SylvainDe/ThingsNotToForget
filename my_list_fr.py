@@ -120,12 +120,17 @@ truc_pour_casier = [
     'cadenas ou piece pour le casier',
 ]
 
-trucs_pour_le_snorkeling = [
+trucs_de_snorkeling = [
     'maillot de bain',
     'masque de plongees',
     'tuba',
     'palmes',
 ]
+
+trucs_de_plongee = [
+    'brevet de plongee',
+    trucs_de_snorkeling,
+],
 
 kit_premiers_soins = [
     'bandages',

@@ -127,6 +127,11 @@ snorkeling_stuff = [
     'fins',
 ]
 
+diving_stuff = [
+    'diving license',
+    snorkeling_stuff,
+],
+
 first_aid_kit = [
     'bandages',
     'fever reliever',
