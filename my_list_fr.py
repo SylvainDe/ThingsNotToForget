@@ -159,6 +159,7 @@ trucs_d_hygiene = [
     'coton-tiges',
     'deodorant',
     'gel pour se laver les mains/lingettes',
+    'charlotte a cheveux',
     medecine_de_base,
     trucs_de_coiffure,
 ]

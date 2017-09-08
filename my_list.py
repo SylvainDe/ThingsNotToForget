@@ -159,6 +159,7 @@ hygiene_stuff = [
     'cotton buds',
     'deodorant',
     'hand sanitizer/wet wipes',
+    'shower cap',
     basic_medicine,
     hair_stuff,
 ]
