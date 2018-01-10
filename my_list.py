@@ -129,6 +129,8 @@ snorkeling_stuff = [
 
 diving_stuff = [
     'diving license',
+    'medical certificate',
+    'diving gear',
     snorkeling_stuff,
 ],
 

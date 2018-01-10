@@ -129,6 +129,8 @@ trucs_de_snorkeling = [
 
 trucs_de_plongee = [
     'brevet de plongee',
+    'certificat medical',
+    'materiel de plongee',
     trucs_de_snorkeling,
 ],
 
