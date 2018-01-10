@@ -54,6 +54,7 @@ etranger = [
     'vaccins/medicaments',
     'visa/passeport',
     'vocabulaire minimal dans la langue etrangere',
+    'permis de conduire international (ou traduction)'
 ]
 
 trucs_pour_dormir_partout = [

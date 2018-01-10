@@ -54,6 +54,7 @@ abroad = [
     'vaccine/medicine',
     'visa/passport',
     'list of words/phrases in foreign language',
+    'international driving license or translation',
 ]
 
 stuff_to_sleep_anywhere = [
