@@ -335,7 +335,7 @@ funeral_stuff = [
 trip_stuff = [
     camera,
     'id/passport',
-    'entertainment for the trip (books, kindle, music, game)',
+    'entertainment for the trip (books (with bookmarks), kindle, music, game)',
 ]
 
 car_stuff = [

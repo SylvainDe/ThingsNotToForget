@@ -335,7 +335,7 @@ trucs_d_enterrement = [
 trucs_de_voyage = [
     appareil_photo,
     'carte d\'identite/passeport',
-    'occupations pour le voyage (livres, kindle, musique, jeu)',
+    'occupations pour le voyage (livres (avec marque-page), kindle, musique, jeu)',
 ]
 
 trucs_de_voiture = [
