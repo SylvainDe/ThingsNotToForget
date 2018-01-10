@@ -245,11 +245,14 @@ extreme_sport_stuff = [
 
 bike_stuff = [
     'bike',
+    'bike helmet',
+    'bike lock',
     'bike lights',
     'bike pump',
     'bike inner tube',
     'bike repair kit',
     'bike map holder/phone holder',
+    'accident report',
     extreme_sport_stuff,
 ]
 
@@ -347,6 +350,7 @@ car_stuff = [
     'music playable in the car (USB sticks, line-in cable, etc)',
     'car phone mount',
     'motion sickness pills',
+    'accident report',
 ]
 
 long_trip_stuff = [

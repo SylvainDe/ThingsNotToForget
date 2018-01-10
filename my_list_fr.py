@@ -245,11 +245,14 @@ trucs_sports_extremes = [
 
 trucs_de_velo = [
     'velo',
+    'casque de velo',
+    'antivol de velo',
     'lampes de velo',
     'pompe a velo',
     'chambre a air',
     'kit de reparation de velo',
     'porte-cartes/porte-telephone pour velo',
+    'constat en cas d\'accident',
     trucs_sports_extremes,
 ]
 
@@ -347,6 +350,7 @@ trucs_de_voiture = [
     'musique jouable dans la voiture (cles USB sticks, cable line-in, etc)',
     'support pour telephone',
     'medicaments contre le mal du transport',
+    'constat en cas d\'accident',
 ]
 
 trucs_de_long_voyage = [
