@@ -20,7 +20,7 @@ trucs_de_base = [
     'sac',
     'mouchoirs',
     'tickets restau',
-    'paper et crayon',
+    'papier et crayon',
     'casque audio/ecouteurs',
 ]
 
