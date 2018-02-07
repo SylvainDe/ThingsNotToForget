@@ -354,6 +354,10 @@ trucs_de_voiture = [
     'constat en cas d\'accident',
 ]
 
+trucs_de_voiture = [
+    'medicaments contre le mal de mer',
+]
+
 trucs_de_long_voyage = [
     'nourriture/boisson pour le voyage',
     trucs_pour_dormir_partout,

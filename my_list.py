@@ -354,6 +354,10 @@ car_stuff = [
     'accident report',
 ]
 
+boat_stuff = [
+    'sea sickness pills',
+]
+
 long_trip_stuff = [
     'food/drink for the trip',
     stuff_to_sleep_anywhere,
