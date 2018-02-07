@@ -260,6 +260,7 @@ tropical_stuff = [
     'bug repellent',
     'mosquito net',
     'sting reliever',
+    'clothes with long sleeves',
 ]
 
 fire_stuff = [

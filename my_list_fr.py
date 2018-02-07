@@ -258,8 +258,9 @@ trucs_de_velo = [
 
 trucs_pour_zones_tropicales = [
     'anti-moustiques',
-    'mousticaire',
+    'moustiquaire',
     'trucs anti-piqures',
+    'vetements a manches longues',
 ]
 
 trucs_pour_faire_du_feu = [
