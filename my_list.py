@@ -150,6 +150,7 @@ basic_medicine = [
 hair_stuff = [
     'hair brush',
     'comb',
+    'hair ties',
 ]
 
 hygiene_stuff = [
@@ -163,6 +164,7 @@ hygiene_stuff = [
     'deodorant',
     'hand sanitizer/wet wipes',
     'shower cap',
+    'tweezers',
     basic_medicine,
     hair_stuff,
 ]
@@ -176,6 +178,7 @@ everyday_clothes = [
 ]
 
 makeup = [
+    'mirror',
     'makeup',
     'makeup remover',
 ]

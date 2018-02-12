@@ -150,6 +150,7 @@ medecine_de_base = [
 trucs_de_coiffure = [
     'brosse a cheveux',
     'peigne',
+    'elastiques a cheveux',
 ]
 
 trucs_d_hygiene = [
@@ -163,6 +164,7 @@ trucs_d_hygiene = [
     'deodorant',
     'gel pour se laver les mains/lingettes',
     'charlotte a cheveux',
+    'pince a epiler',
     medecine_de_base,
     trucs_de_coiffure,
 ]
@@ -176,6 +178,7 @@ vetements_de_tous_les_jours = [
 ]
 
 maquillage = [
+    'miroir',
     'maquillage',
     'demaquillant',
 ]
