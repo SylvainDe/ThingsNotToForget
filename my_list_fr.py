@@ -38,6 +38,7 @@ rdv_medical = [
     'carnet de sante',
     'carnet de vaccination',
     'carte vitale',
+    'attestation de mutuelle',
     'moyen de payment (carte de credit, chequier)',
 ]
 
@@ -348,6 +349,7 @@ trucs_de_voyage = [
 trucs_de_voiture = [
     'GPS',
     'permis de conduire (+ permis international ou traduction)',
+    'disque jeune conducteur'
     'papiers du vehicule',
     'cles de voiture',
     'adaptateur allume-cigares',

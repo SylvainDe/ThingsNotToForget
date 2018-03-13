@@ -38,6 +38,7 @@ medical_appointment = [
     'health record booklet',
     'vaccination card',
     'vitale card',
+    'mutual insurance certificate',
     'form of payment (card, checkbook)',
 ]
 
@@ -348,6 +349,7 @@ trip_stuff = [
 car_stuff = [
     'GPS',
     'license (+ international license or translation)',
+    'learner plate',
     'registration certificate',
     'car keys',
     'car lighter charger',
