@@ -63,6 +63,7 @@ trucs_pour_dormir_partout = [
     'masque pour dormir',
     'oreiller de voyage',
     'couverture',
+    'boite a lunettes',
 ]
 
 trucs_pour_le_soleil = [
@@ -349,9 +350,11 @@ trucs_de_voyage = [
 trucs_de_voiture = [
     'GPS',
     'permis de conduire (+ permis international ou traduction)',
-    'disque jeune conducteur'
+    'disque jeune conducteur',
+    'disque de stationnement',
     'papiers du vehicule',
     'cles de voiture',
+    'lunettes pour conduire',
     'adaptateur allume-cigares',
     'musique jouable dans la voiture (cles USB sticks, cable line-in, etc)',
     'support pour telephone',

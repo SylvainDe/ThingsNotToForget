@@ -63,6 +63,7 @@ stuff_to_sleep_anywhere = [
     'eye mask',
     'travel pillow',
     'blanket',
+    'eyeglass case',
 ]
 
 sun_stuff = [
@@ -350,8 +351,10 @@ car_stuff = [
     'GPS',
     'license (+ international license or translation)',
     'learner plate',
+    'disc parking',
     'registration certificate',
     'car keys',
+    'glasses for driving',
     'car lighter charger',
     'music playable in the car (USB sticks, line-in cable, etc)',
     'car phone mount',
