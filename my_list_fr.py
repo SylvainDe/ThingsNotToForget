@@ -73,6 +73,7 @@ trucs_pour_le_soleil = [
     'baume a levres solaire',
     'casquette',
     'short',
+    'eventail',
 ]
 
 trucs_pour_la_pluie = [
@@ -258,6 +259,7 @@ trucs_de_velo = [
     'kit de reparation de velo',
     'porte-cartes/porte-telephone pour velo',
     'constat en cas d\'accident',
+    'gilet fluo',
     trucs_sports_extremes,
 ]
 
@@ -425,6 +427,11 @@ london = [
 
 observation = [
     'jumelles',
+]
+
+trucs_de_cinema = [
+    'tickets',
+    'lunettes 3D',
 ]
 
 trucs_de_spectacle = [

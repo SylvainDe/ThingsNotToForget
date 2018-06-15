@@ -73,6 +73,7 @@ sun_stuff = [
     'lip sun protection',
     'cap',
     'short pants',
+    'handheld fan',
 ]
 
 rain_stuff = [
@@ -258,6 +259,7 @@ bike_stuff = [
     'bike repair kit',
     'bike map holder/phone holder',
     'accident report',
+    'high visibility jacket',
     extreme_sport_stuff,
 ]
 
@@ -425,6 +427,11 @@ london = [
 
 basic_observation = [
     'binoculars',
+]
+
+cinema_stuff = [
+    'tickets',
+    '3D glasses',
 ]
 
 show_stuff = [
