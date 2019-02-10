@@ -203,6 +203,7 @@ fancy_clothes_man = [
 
 fancy_clothes = [
     'fancy shoes',
+    'clothes brush',
     fancy_clothes_woman,
     fancy_clothes_man,
 ]
@@ -210,6 +211,7 @@ fancy_clothes = [
 glasses_and_co = [
     'glasses',
     'eyeglass case',
+    'glasses cloth',
     'contact lenses',
     'box for contact lenses',
     'liquid for contact lenses',

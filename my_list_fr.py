@@ -203,6 +203,7 @@ vetements_classes_homme = [
 
 vetements_classes = [
     'chaussures classes',
+    'brosse a habits',
     vetements_classes_femme,
     vetements_classes_homme,
 ]
@@ -210,6 +211,7 @@ vetements_classes = [
 trucs_optiques = [
     'lunettes',
     'boite a lunettes',
+    'chiffon a lunettes',
     'lentilles de contact',
     'boite a lentilles de contact',
     'liquide pour lentilles de contact',
