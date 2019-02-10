@@ -456,6 +456,9 @@ festival = [
     'water',
     'biscuits',
     'deck of cards',
+    'ecocup',
+    'cup holder',
+    'lighter',  # to burn the ends of the wristband
     gig_stuff,
     rain_stuff,
 ]

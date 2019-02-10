@@ -456,6 +456,9 @@ festival = [
     'eau',
     'biscuits',
     'jeu de cartes',
+    'gobelets recyclables',
+    'porte gobelet',
+    'briquet',  # pour bruler les bouts de bracelets
     trucs_de_concerts,
     trucs_pour_la_pluie,
 ]
