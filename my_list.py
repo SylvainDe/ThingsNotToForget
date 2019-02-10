@@ -521,3 +521,28 @@ interstellar_hitch_hiking_stuff = [
 girl_stuff = [
     'stuff for period (tampon, sanitary pads, related medicine)',
 ]
+
+leave_work_for_days = [
+    'setup out of the office automatic response',
+    'cleanup the desk',
+]
+
+leave_home_for_days = [
+    'water the flowers',
+    'empty the bins',
+    'empty the fridge',
+]
+
+leave_country_for_days = [
+    'notify the bank',
+]
+
+leave_for_holidays = [
+    'disable alarm clock',
+    'remove useless items from wallet',
+]
+
+back_from_holidays = [
+    'enable alarm clock',
+    'add everything back in the wallet',
+]

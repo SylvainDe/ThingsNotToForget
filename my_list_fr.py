@@ -521,3 +521,28 @@ interstellar_hitch_hiking_stuff = [
 trucs_de_filles = [
     'trucs pour les regles (tampons, serviettes, medicaments qui vont bien)',
 ]
+
+quitter_le_boulot_plusieurs_jours = [
+    'parametrer le repondeur email automatique',
+    'nettoyer le bureau',
+]
+
+quitter_la_maison_plusieurs_jours = [
+    'arroser les plantes',
+    'vider les poubelles',
+    'vider le frigo',
+]
+
+quitter_le_boulot_plusieurs_jours = [
+    'prevenir la banque',
+]
+
+partir_en_vacances = [
+    'desactiver le reveil',
+    'retirer les objets inutiles du portefeuille',
+]
+
+back_from_holidays = [
+    'activer le reveil',
+    'remettre les objets dans le portefeuille',
+]
