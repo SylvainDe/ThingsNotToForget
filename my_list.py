@@ -129,6 +129,7 @@ snorkeling_stuff = [
     'snorkeling mask',
     'snorkel',
     'fins',
+    'mineral sun cream',  # less toxic for creatures living in the water
 ]
 
 diving_stuff = [
@@ -389,6 +390,7 @@ flight_trip_stuff = [
 ]
 
 picnic_stuff = [
+    'knife',
     'bottle opener/corkscrew',
     'disposable cutlery/plates/cups',
     'kitchen roll',
@@ -499,7 +501,17 @@ climbing = [
     'chalk',
     'belay gloves',
     'nail clippers',
-    'tickets/card if indoor climbing',
+    'belaying glasses',
+]
+
+indoor_climbing = [
+    climbing,
+    'tickets/card for indoor climbing',
+]
+
+outdoor_climbling = [
+    'climbing helmet',
+    'climbing lanyard',
 ]
 
 hiking_stuff = [

@@ -129,6 +129,7 @@ trucs_de_snorkeling = [
     'masque de plongees',
     'tuba',
     'palmes',
+    'creme solaire minerale',  # moins toxique pour les creatures dans l'ea moins toxique pour les creatures dans l'eau
 ]
 
 trucs_de_plongee = [
@@ -389,6 +390,7 @@ trucs_de_voyage_en_avion = [
 ]
 
 trucs_de_piquenique = [
+    'couteau',
     'ouvre-bouteille/decapsuleur',
     'couverts/assiettes/gobelets jetables',
     'essuie-tout',
@@ -499,7 +501,17 @@ escalade = [
     'magnesie ou pof',
     'gants d\'assurage',
     'coupe-ongles',
-    'tickets/carte si en interieur',
+    'lunettes d\'assurage',
+]
+
+escalade_en_salle = [
+    escalade,
+    'tickets/carte pour la salle d\'escalade',
+]
+
+escalade_en_exterieur = [
+    escalade,
+    'vache/longe',
 ]
 
 trucs_de_rando = [
