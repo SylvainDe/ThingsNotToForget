@@ -174,7 +174,7 @@ trucs_d_hygiene = [
 ]
 
 vetements_de_tous_les_jours = [
-    'chausettes',
+    'chaussettes',
     'sous-vetements',
     'pantalon/jeans',
     'tshirts/chemises',
@@ -367,7 +367,7 @@ trucs_de_voiture = [
     'constat en cas d\'accident',
 ]
 
-trucs_de_voiture = [
+trucs_de_bateau = [
     'medicaments contre le mal de mer',
 ]
 
@@ -550,7 +550,7 @@ quitter_la_maison_plusieurs_jours = [
     'vider le frigo',
 ]
 
-quitter_le_boulot_plusieurs_jours = [
+quitter_le_pays_plusieurs_jours = [
     'prevenir la banque',
 ]
 
@@ -559,7 +559,7 @@ partir_en_vacances = [
     'retirer les objets inutiles du portefeuille',
 ]
 
-back_from_holidays = [
+retour_de_vacances = [
     'activer le reveil',
     'remettre les objets dans le portefeuille',
 ]
