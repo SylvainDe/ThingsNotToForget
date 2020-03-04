@@ -548,6 +548,7 @@ quitter_la_maison_plusieurs_jours = [
     'arroser les plantes',
     'vider les poubelles',
     'vider le frigo',
+    'debrancher les appareils electroniques inutiles',
 ]
 
 quitter_le_pays_plusieurs_jours = [

@@ -548,6 +548,7 @@ leave_home_for_days = [
     'water the flowers',
     'empty the bins',
     'empty the fridge',
+    'unplug useless eletric equipments',
 ]
 
 leave_country_for_days = [
