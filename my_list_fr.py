@@ -261,7 +261,9 @@ trucs_de_velo = [
     'chambre a air',
     'kit de reparation de velo',
     'porte-cartes/porte-telephone pour velo',
+    'GPS de velo / cartes / telephone avec les cartes',
     'constat en cas d\'accident',
+    'vetements impermeables de velo',
     'gilet fluo',
     trucs_sports_extremes,
 ]

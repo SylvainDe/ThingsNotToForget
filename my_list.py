@@ -261,8 +261,10 @@ bike_stuff = [
     'bike inner tube',
     'bike repair kit',
     'bike map holder/phone holder',
+    'cycling GPS / maps / phone with maps',
     'accident report',
     'high visibility jacket',
+    'waterproof cycle clothing (pants and jacket)',
     extreme_sport_stuff,
 ]
 
