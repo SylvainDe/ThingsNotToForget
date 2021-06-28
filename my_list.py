@@ -17,6 +17,7 @@ basic_stuff = [
     wallet,
     'phone',
     'keys (home)',
+    'mask (covid)',
     'bag',
     'tissues',
     'tickets restau',

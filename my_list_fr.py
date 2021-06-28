@@ -17,6 +17,7 @@ trucs_de_base = [
     portefeuille,
     'telephone',
     'cles (maison)',
+    'masque (covid)',
     'sac',
     'mouchoirs',
     'tickets restau',
