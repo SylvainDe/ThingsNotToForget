@@ -55,6 +55,8 @@ etranger = [
     'vaccins/medicaments',
     'visa/passeport',
     'vocabulaire minimal dans la langue etrangere',
+    'carte europeenne d\'assurance maladie (CEAM)',
+    'carnet de vaccinations internationales',
     'permis de conduire international (ou traduction)',
 ]
 

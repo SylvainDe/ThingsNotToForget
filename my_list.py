@@ -55,6 +55,8 @@ abroad = [
     'vaccine/medicine',
     'visa/passport',
     'list of words/phrases in foreign language',
+    'european health insurance card (EHIC)',
+    'international vaccination book',
     'international driving license or translation',
 ]
 
