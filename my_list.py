@@ -312,6 +312,15 @@ dyi_stuff = [
     'screwdrivers',
 ]
 
+moving_out_stuff = [
+    'protection gloves',
+    'hand trolley',
+    'straps',
+    'cardboard boxes',
+    'marker pens',
+    'scotch tape',
+]
+
 camera = [
     'camera',
     'non-full SD card',

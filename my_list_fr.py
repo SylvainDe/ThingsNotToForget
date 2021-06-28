@@ -304,12 +304,21 @@ materiel_de_nettoyage = [
     'torchon a vaiselle',
 ]
 
-material_de_bricolage = [
+materiel_de_bricolage = [
     'masque de protection',
     'lunettes de protection',
     'gants de protection',
     'marteau',
     'tournevis',
+]
+
+demenagement = [
+    'gants de protection',
+    'diable',
+    'sangles',
+    'cartons',
+    'marqueurs',
+    'scotch',
 ]
 
 appareil_photo = [
