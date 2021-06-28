@@ -132,7 +132,7 @@ trucs_de_snorkeling = [
     'masque de plongees',
     'tuba',
     'palmes',
-    'creme solaire minerale',  # moins toxique pour les creatures dans l'ea moins toxique pour les creatures dans l'eau
+    'creme solaire minerale',  # moins toxique pour les creatures dans l'eau
 ]
 
 trucs_de_plongee = [
