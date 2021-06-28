@@ -266,7 +266,8 @@ trucs_de_velo = [
     'porte-cartes/porte-telephone pour velo',
     'GPS de velo / cartes / telephone avec les cartes',
     'constat en cas d\'accident',
-    'vetements impermeables de velo',
+    'vetements impermeables de velo (pantalon et veste)',
+    'gants / mitaines de velo',
     'gilet fluo',
     trucs_sports_extremes,
 ]
