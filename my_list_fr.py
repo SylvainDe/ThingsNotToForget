@@ -535,6 +535,7 @@ escalade_en_exterieur = [
     'vache/longe',
 ]
 
+# Split into "rando" and "rando_pedestre" for stuff useful for bike as well
 trucs_de_rando = [
     'cartes',
     'boussole',
@@ -542,6 +543,8 @@ trucs_de_rando = [
     'batons de marche',
     'eau',
     'snacks',
+    'lampe de poche',
+    'orthese',
     kit_premiers_soins,
     observation,
 ]

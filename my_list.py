@@ -535,6 +535,7 @@ outdoor_climbling = [
     'climbing lanyard',
 ]
 
+# Split into "rando" and "rando_pedestre" for stuff useful for bike as well
 hiking_stuff = [
     'maps',
     'compass',
@@ -542,6 +543,8 @@ hiking_stuff = [
     'walking poles',
     'water',
     'snacks',
+    'flashlight',
+    'splint',
     first_aid_kit,
     basic_observation,
 ]
