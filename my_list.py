@@ -259,6 +259,7 @@ bike_stuff = [
     'bike',
     'bike helmet',
     'bike lock',
+    'spare keys for bike lock on a dedicated keyring',
     'bike lights',
     'bike pump',
     'bike inner tube',

@@ -259,6 +259,7 @@ trucs_de_velo = [
     'velo',
     'casque de velo',
     'antivol de velo',
+    'cles d antivol supplementaires sur un porte-cle dedie',
     'lampes de velo',
     'pompe a velo',
     'chambre a air',
