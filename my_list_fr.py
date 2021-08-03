@@ -552,7 +552,7 @@ interstellar_hitch_hiking_stuff = [
 ]
 
 trucs_de_filles = [
-    'trucs pour les regles (tampons, serviettes, medicaments qui vont bien)',
+    'trucs pour les regles (tampons, serviettes, culottes mentruelles, coupes menstruelles, medicaments qui vont bien)',
 ]
 
 quitter_le_boulot_plusieurs_jours = [
