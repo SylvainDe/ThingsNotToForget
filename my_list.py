@@ -18,6 +18,7 @@ basic_stuff = [
     'phone',
     'keys (home)',
     'mask (covid)',
+    'EU Digital COVID Certificate',
     'bag',
     'tissues',
     'tickets restau',
