@@ -487,6 +487,7 @@ festival = [
 swimming_pool_stuff = [
     sport_locker_room_stuff,
     'swimming suit (swimming-pool)',
+    'swimming goggles',
     'swimming hat',
     'nose clip',
     'fins',

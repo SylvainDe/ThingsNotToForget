@@ -487,6 +487,7 @@ festival = [
 trucs_de_piscine = [
     affaires_de_vestiaires,
     'maillot de bain (piscine)',
+    'lunettes de natation',
     'bonnet de bain',
     'pince nez',
     'palmes',
