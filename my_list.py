@@ -485,7 +485,6 @@ festival = [
     rain_stuff,
 ]
 
-
 swimming_pool_stuff = [
     sport_locker_room_stuff,
     'swimming suit (swimming-pool)',
@@ -497,6 +496,15 @@ swimming_pool_stuff = [
     'bag for wet clothes',
 ]
 
+sauna_hammam = [
+    'swimming suit (sauna)',
+    'towel (sauna)',
+    'bath robe',
+    'flip-flop',
+    'black soap',
+    'scrubbing glove',
+]
+
 skiing_stuff = [
     sun_stuff,
     very_cold_stuff,
@@ -505,15 +513,8 @@ skiing_stuff = [
     'ski helmet',
     'snow boot',
     'muscle healing cream',
-]
-
-
-sauna_hammam = [
-    'towel (sauna)',
-    'bath robe',
-    'flip-flop',
-    'black soap',
-    'scrubbing glove',
+    swimming_pool_stuff,
+    sauna_hammam,
 ]
 
 climbing = [

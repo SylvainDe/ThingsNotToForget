@@ -485,7 +485,6 @@ festival = [
     trucs_pour_la_pluie,
 ]
 
-
 trucs_de_piscine = [
     affaires_de_vestiaires,
     'maillot de bain (piscine)',
@@ -497,6 +496,15 @@ trucs_de_piscine = [
     'sacs pour vetements mouilles',
 ]
 
+sauna_hammam = [
+    'maillot de bain (sauna)',
+    'serviette (sauna)',
+    'peignoir',
+    'tongs',
+    'savon noir',
+    'gant de toilettes grattant',
+]
+
 trucs_de_ski = [
     trucs_pour_le_soleil,
     trucs_pour_le_tres_froid,
@@ -505,15 +513,8 @@ trucs_de_ski = [
     'casque de ski',
     'apres-ski',
     'creme apaisante pour les muscles',
-]
-
-
-sauna_hammam = [
-    'serviette (sauna)',
-    'peignoir',
-    'tongs',
-    'savon noir',
-    'gant de toilettes grattant',
+    trucs_de_piscine,
+    sauna_hammam,
 ]
 
 escalade = [
