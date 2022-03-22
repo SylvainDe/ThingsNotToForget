@@ -101,6 +101,7 @@ trucs_pour_le_tres_froid = [
     'veste de ski',
     'pantalon de ski',
     'baume a levre anti-gercures',
+    'pommade Homeoplasmine',
 ]
 
 jeux_d_exterieur = [
@@ -144,6 +145,7 @@ trucs_de_plongee = [
 ],
 
 kit_premiers_soins = [
+    'pansements',
     'bandages',
     'medicaments contre la fievre',
 ]

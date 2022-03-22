@@ -101,6 +101,7 @@ very_cold_stuff = [
     'ski jackets',
     'ski pants',
     'lip balm (cold)',
+    'cream Homeoplasmine',
 ]
 
 outside_games = [
@@ -144,6 +145,7 @@ diving_stuff = [
 ],
 
 first_aid_kit = [
+    'band-aids',
     'bandages',
     'fever reliever',
 ]
