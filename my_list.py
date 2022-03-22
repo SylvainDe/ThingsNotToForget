@@ -137,9 +137,12 @@ snorkeling_stuff = [
     "mineral sun cream",  # less toxic for creatures living in the water
 ]
 
-diving_stuff = (
-    ["diving license", "medical certificate", "diving gear", snorkeling_stuff,],
-)
+diving_stuff = [
+    "diving license",
+    "medical certificate",
+    "diving gear",
+    snorkeling_stuff,
+]
 
 first_aid_kit = [
     "band-aids",

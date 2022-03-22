@@ -137,14 +137,12 @@ trucs_de_snorkeling = [
     "creme solaire minerale",  # moins toxique pour les creatures dans l'eau
 ]
 
-trucs_de_plongee = (
-    [
-        "brevet de plongee",
-        "certificat medical",
-        "materiel de plongee",
-        trucs_de_snorkeling,
-    ],
-)
+trucs_de_plongee = [
+    "brevet de plongee",
+    "certificat medical",
+    "materiel de plongee",
+    trucs_de_snorkeling,
+]
 
 kit_premiers_soins = [
     "pansements",
