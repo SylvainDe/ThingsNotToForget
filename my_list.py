@@ -5,192 +5,189 @@
 """Docstring for Python module"""
 
 wallet = [
-    'spare change',
-    'id card',
-    'organ donor card',
-    'debit card',
-    'transportation card',
-    'emergency contacts',
+    "spare change",
+    "id card",
+    "organ donor card",
+    "debit card",
+    "transportation card",
+    "emergency contacts",
 ]
 
 basic_stuff = [
     wallet,
-    'phone',
-    'keys (home)',
-    'mask (covid)',
-    'EU Digital COVID Certificate',
-    'bag',
-    'tissues',
-    'tickets restau',
-    'pen and paper',
-    'headphone',
+    "phone",
+    "keys (home)",
+    "mask (covid)",
+    "EU Digital COVID Certificate",
+    "bag",
+    "tissues",
+    "tickets restau",
+    "pen and paper",
+    "headphone",
 ]
 
 job = [
     basic_stuff,
-    'job access card',
+    "job access card",
 ]
 
 tourism_stuff = [
-    'travel guide',
-    'antitheft travel bag',
+    "travel guide",
+    "antitheft travel bag",
 ]
 
 medical_appointment = [
-    'health record booklet',
-    'vaccination card',
-    'vitale card',
-    'mutual insurance certificate',
-    'form of payment (card, checkbook)',
+    "health record booklet",
+    "vaccination card",
+    "vitale card",
+    "mutual insurance certificate",
+    "form of payment (card, checkbook)",
 ]
 
 shopping = [
-    'bags',
-    'loyalty card',
-    'vouchers/gift cards',
+    "bags",
+    "loyalty card",
+    "vouchers/gift cards",
 ]
 
 abroad = [
-    'currency',
-    'traveler\'s checks',
-    'AC/DC adaptor',
-    'vaccine/medicine',
-    'visa/passport',
-    'list of words/phrases in foreign language',
-    'european health insurance card (EHIC)',
-    'international vaccination book',
-    'international driving license or translation',
+    "currency",
+    "traveler's checks",
+    "AC/DC adaptor",
+    "vaccine/medicine",
+    "visa/passport",
+    "list of words/phrases in foreign language",
+    "european health insurance card (EHIC)",
+    "international vaccination book",
+    "international driving license or translation",
 ]
 
 stuff_to_sleep_anywhere = [
-    'earplugs',
-    'eye mask',
-    'travel pillow',
-    'blanket',
-    'eyeglass case',
+    "earplugs",
+    "eye mask",
+    "travel pillow",
+    "blanket",
+    "eyeglass case",
 ]
 
 sun_stuff = [
-    'sun screen',
-    'sunburn relief (Biafine)',
-    'sun glasses',
-    'lip sun protection',
-    'cap',
-    'short pants',
-    'handheld fan',
+    "sun screen",
+    "sunburn relief (Biafine)",
+    "sun glasses",
+    "lip sun protection",
+    "cap",
+    "short pants",
+    "handheld fan",
 ]
 
 rain_stuff = [
-    'umbrella',
-    'shoes for the rain',
-    'coat',
-    'poncho',
+    "umbrella",
+    "shoes for the rain",
+    "coat",
+    "poncho",
 ]
 
 cold_stuff = [
-    'gloves',
-    'scarf/neck tube',
-    'wooly hat',
-    'hand cream',
+    "gloves",
+    "scarf/neck tube",
+    "wooly hat",
+    "hand cream",
 ]
 
 very_cold_stuff = [
     cold_stuff,
-    'warm tights',
-    'warm socks',
-    'ski jackets',
-    'ski pants',
-    'lip balm (cold)',
-    'cream Homeoplasmine',
+    "warm tights",
+    "warm socks",
+    "ski jackets",
+    "ski pants",
+    "lip balm (cold)",
+    "cream Homeoplasmine",
 ]
 
 outside_games = [
-    'molky',
-    'racket ball',
-    'foot ball',
-    'petanque balls',
-    'flying disk',
-    'kite',
-    'drone',
+    "molky",
+    "racket ball",
+    "foot ball",
+    "petanque balls",
+    "flying disk",
+    "kite",
+    "drone",
 ]
 
 beach_stuff = [
-    'swimming suit (beach)',
-    'towel (beach)',
-    'flip-flop',
-    'aquashoes',
-    'neoprene suit',
-    'bag for wet clothes',
+    "swimming suit (beach)",
+    "towel (beach)",
+    "flip-flop",
+    "aquashoes",
+    "neoprene suit",
+    "bag for wet clothes",
     sun_stuff,
     outside_games,
 ]
 
 locker_stuff = [
-    'padlock or coin for locker',
+    "padlock or coin for locker",
 ]
 
 snorkeling_stuff = [
-    'swimming suit',
-    'snorkeling mask',
-    'snorkel',
-    'fins',
-    'mineral sun cream',  # less toxic for creatures living in the water
+    "swimming suit",
+    "snorkeling mask",
+    "snorkel",
+    "fins",
+    "mineral sun cream",  # less toxic for creatures living in the water
 ]
 
-diving_stuff = [
-    'diving license',
-    'medical certificate',
-    'diving gear',
-    snorkeling_stuff,
-],
+diving_stuff = (
+    ["diving license", "medical certificate", "diving gear", snorkeling_stuff,],
+)
 
 first_aid_kit = [
-    'band-aids',
-    'bandages',
-    'fever reliever',
+    "band-aids",
+    "bandages",
+    "fever reliever",
 ]
 
 basic_medicine = [
     first_aid_kit,
-    'prescriptions',
-    'food supplement',
-    'condoms',
+    "prescriptions",
+    "food supplement",
+    "condoms",
 ]
 
 hair_stuff = [
-    'hair brush',
-    'comb',
-    'hair ties',
+    "hair brush",
+    "comb",
+    "hair ties",
 ]
 
 hygiene_stuff = [
-    'toothbrush',
-    'toothpaste',
-    'shampoo',
-    'soap',
-    'washing mitt',
-    'towel (hygiene)',
-    'cotton buds',
-    'deodorant',
-    'hand sanitizer/wet wipes',
-    'shower cap',
-    'tweezers',
+    "toothbrush",
+    "toothpaste",
+    "shampoo",
+    "soap",
+    "washing mitt",
+    "towel (hygiene)",
+    "cotton buds",
+    "deodorant",
+    "hand sanitizer/wet wipes",
+    "shower cap",
+    "tweezers",
     basic_medicine,
     hair_stuff,
 ]
 
 everyday_clothes = [
-    'socks',
-    'underwears',
-    'pants/jeans',
-    'tshirts/shirts',
-    'sweat shirt',
+    "socks",
+    "underwears",
+    "pants/jeans",
+    "tshirts/shirts",
+    "sweat shirt",
 ]
 
 makeup = [
-    'mirror',
-    'makeup',
-    'makeup remover',
+    "mirror",
+    "makeup",
+    "makeup remover",
 ]
 
 fancy_clothes_woman = [
@@ -198,395 +195,395 @@ fancy_clothes_woman = [
 ]
 
 fancy_clothes_man = [
-    'suit',
-    'fancy shirt',
-    'collar stays',
-    'belt',
-    'tie',
-    'cufflink',
-    'shaving stuff (razor, cream, etc)',
+    "suit",
+    "fancy shirt",
+    "collar stays",
+    "belt",
+    "tie",
+    "cufflink",
+    "shaving stuff (razor, cream, etc)",
 ]
 
 fancy_clothes = [
-    'fancy shoes',
-    'clothes brush',
+    "fancy shoes",
+    "clothes brush",
     fancy_clothes_woman,
     fancy_clothes_man,
 ]
 
 glasses_and_co = [
-    'glasses',
-    'eyeglass case',
-    'glasses cloth',
-    'contact lenses',
-    'box for contact lenses',
-    'liquid for contact lenses',
+    "glasses",
+    "eyeglass case",
+    "glasses cloth",
+    "contact lenses",
+    "box for contact lenses",
+    "liquid for contact lenses",
 ]
 
 proper_sleeping_stuff = [
     glasses_and_co,
     hygiene_stuff,
-    'pyjama',
-    'laundry bag',
-    'slippers',
+    "pyjama",
+    "laundry bag",
+    "slippers",
 ]
 
 hostel_stuff = [
     locker_stuff,
-    'flip-flop',
+    "flip-flop",
     stuff_to_sleep_anywhere,
     proper_sleeping_stuff,
 ]
 
 sport_locker_room_stuff = [
     locker_stuff,
-    'towel (sport)',
-    'soap',
+    "towel (sport)",
+    "soap",
 ]
 
 sport_stuff = [
     sport_locker_room_stuff,
-    'water (bottle or flask)',
-    'sport clothes (shorts, tshirt)',
-    'clean clothes',
+    "water (bottle or flask)",
+    "sport clothes (shorts, tshirt)",
+    "clean clothes",
 ]
 
 extreme_sport_stuff = [
     sport_stuff,
-    'eyeglass strap',
-    'action camera (and accessories)',
-    'cheap waterproof watch',
+    "eyeglass strap",
+    "action camera (and accessories)",
+    "cheap waterproof watch",
 ]
 
 bike_stuff = [
-    'bike',
-    'bike helmet',
-    'bike lock',
-    'spare keys for bike lock on a dedicated keyring',
-    'bike lights',
-    'bike pump',
-    'bike inner tube',
-    'bike repair kit',
-    'bike map holder/phone holder',
-    'cycling GPS / maps / phone with maps',
-    'accident report',
-    'cycling shorts',
-    'waterproof cycle clothing (pants and jacket)',
-    'cycling gloves',
-    'high visibility jacket',
+    "bike",
+    "bike helmet",
+    "bike lock",
+    "spare keys for bike lock on a dedicated keyring",
+    "bike lights",
+    "bike pump",
+    "bike inner tube",
+    "bike repair kit",
+    "bike map holder/phone holder",
+    "cycling GPS / maps / phone with maps",
+    "accident report",
+    "cycling shorts",
+    "waterproof cycle clothing (pants and jacket)",
+    "cycling gloves",
+    "high visibility jacket",
     extreme_sport_stuff,
 ]
 
 tropical_stuff = [
-    'bug repellent',
-    'mosquito net',
-    'sting reliever',
-    'clothes with long sleeves',
+    "bug repellent",
+    "mosquito net",
+    "sting reliever",
+    "clothes with long sleeves",
 ]
 
 fire_stuff = [
-    'firelighter',
+    "firelighter",
 ]
 
 camping_stuff = [
-    'tente',
-    '(inflatable) mat',
-    'pump for the mat',
-    'sleeping bag',
-    'flashlight',
-    'toilet paper',
-    'bin bags',
+    "tente",
+    "(inflatable) mat",
+    "pump for the mat",
+    "sleeping bag",
+    "flashlight",
+    "toilet paper",
+    "bin bags",
     proper_sleeping_stuff,
     fire_stuff,
 ]
 
 cleaning_stuff = [
-    'bin bags',
-    'kitchen roll',
-    'toilet paper',
-    'dish soap',
-    'sponge',
-    'dish tower',
+    "bin bags",
+    "kitchen roll",
+    "toilet paper",
+    "dish soap",
+    "sponge",
+    "dish tower",
 ]
 
 dyi_stuff = [
-    'protection mask',
-    'protection glasses',
-    'protection gloves',
-    'hammer',
-    'screwdrivers',
+    "protection mask",
+    "protection glasses",
+    "protection gloves",
+    "hammer",
+    "screwdrivers",
 ]
 
 moving_out_stuff = [
-    'protection gloves',
-    'hand trolley',
-    'straps',
-    'cardboard boxes',
-    'marker pens',
-    'scotch tape',
+    "protection gloves",
+    "hand trolley",
+    "straps",
+    "cardboard boxes",
+    "marker pens",
+    "scotch tape",
 ]
 
 camera = [
-    'camera',
-    'non-full SD card',
-    'charged battery-pack (camera)',
-    'charger (camera)',
-    'tripod',
+    "camera",
+    "non-full SD card",
+    "charged battery-pack (camera)",
+    "charger (camera)",
+    "tripod",
 ]
 
 gift_stuff = [
-    'gift',
-    'wrapping paper',
-    'nice card',
+    "gift",
+    "wrapping paper",
+    "nice card",
 ]
 
 birthday_stuff = [
-    'candles',
-    'firelighter',
-    'cake',
+    "candles",
+    "firelighter",
+    "cake",
     gift_stuff,
     camera,
 ]
 
 church_stuff = [
-    'change for donations',
+    "change for donations",
 ]
 
 wedding_stuff = [
-    'invitation',
-    'checkbook',
+    "invitation",
+    "checkbook",
     fancy_clothes,
     camera,
     church_stuff,
 ]
 
 funeral_stuff = [
-    'tissues',
+    "tissues",
     fancy_clothes,
     church_stuff,
 ]
 
 trip_stuff = [
     camera,
-    'id/passport',
-    'entertainment for the trip (books (with bookmarks), kindle, music, game)',
+    "id/passport",
+    "entertainment for the trip (books (with bookmarks), kindle, music, game)",
 ]
 
 car_stuff = [
-    'GPS',
-    'license (+ international license or translation)',
-    'learner plate',
-    'disc parking',
-    'registration certificate',
-    'car keys',
-    'glasses for driving',
-    'car lighter charger',
-    'music playable in the car (USB sticks, line-in cable, etc)',
-    'car phone mount',
-    'motion sickness pills',
-    'accident report',
+    "GPS",
+    "license (+ international license or translation)",
+    "learner plate",
+    "disc parking",
+    "registration certificate",
+    "car keys",
+    "glasses for driving",
+    "car lighter charger",
+    "music playable in the car (USB sticks, line-in cable, etc)",
+    "car phone mount",
+    "motion sickness pills",
+    "accident report",
 ]
 
 boat_stuff = [
-    'sea sickness pills',
+    "sea sickness pills",
 ]
 
 long_trip_stuff = [
-    'food/drink for the trip',
+    "food/drink for the trip",
     stuff_to_sleep_anywhere,
     trip_stuff,
 ]
 
 train_trip_stuff = [
-    'tickets',
-    'discount card',
+    "tickets",
+    "discount card",
     trip_stuff,
 ]
 
 flight_trip_stuff = [
-    '/!\ nothing dangerous',
-    '/!\ liquids in little bags',
-    'tickets and/or boarding pass',
-    'support stockings',
+    "/!\ nothing dangerous",
+    "/!\ liquids in little bags",
+    "tickets and/or boarding pass",
+    "support stockings",
     trip_stuff,
 ]
 
 picnic_stuff = [
-    'knife',
-    'bottle opener/corkscrew',
-    'disposable cutlery/plates/cups',
-    'kitchen roll',
-    'bin bags',
-    'blanket',
+    "knife",
+    "bottle opener/corkscrew",
+    "disposable cutlery/plates/cups",
+    "kitchen roll",
+    "bin bags",
+    "blanket",
     outside_games,
 ]
 
 things_to_download_and_or_print = [
-    'bookings (flights, trains, car, hotels, etc)',
-    'addresses (hotels, friends)',
-    'messaging app',
-    'offline maps',
-    'offline dictionnary',
-    'app to split expenses',
-    'yuge',
-    'music/movies/tvshows/books/audiobooks/podcasts',
+    "bookings (flights, trains, car, hotels, etc)",
+    "addresses (hotels, friends)",
+    "messaging app",
+    "offline maps",
+    "offline dictionnary",
+    "app to split expenses",
+    "yuge",
+    "music/movies/tvshows/books/audiobooks/podcasts",
 ]
 
 electronics = [
-    'computer',
-    'charger (computer)',
-    'phone',
-    'charger (phone)',
-    'watch',
-    'charger (watch)',
-    'multi-socket adaptor',
+    "computer",
+    "charger (computer)",
+    "phone",
+    "charger (phone)",
+    "watch",
+    "charger (watch)",
+    "multi-socket adaptor",
 ]
 
 london = [
     abroad,
     trip_stuff,
     proper_sleeping_stuff,
-    'oyster card',
+    "oyster card",
 ]
 
 basic_observation = [
-    'binoculars',
+    "binoculars",
 ]
 
 cinema_stuff = [
-    'tickets',
-    '3D glasses',
+    "tickets",
+    "3D glasses",
 ]
 
 show_stuff = [
-    'binoculars',
-    'tickets',
+    "binoculars",
+    "tickets",
 ]
 
 theater_stuff = [
     show_stuff,
-    'change for the ushers',
+    "change for the ushers",
 ]
 
 gig_stuff = [
     show_stuff,
-    'earplugs',
-    'water bottle with additional caps',
+    "earplugs",
+    "water bottle with additional caps",
 ]
 
 festival = [
-    'water',
-    'biscuits',
-    'deck of cards',
-    'ecocup',
-    'cup holder',
-    'lighter',  # to burn the ends of the wristband
+    "water",
+    "biscuits",
+    "deck of cards",
+    "ecocup",
+    "cup holder",
+    "lighter",  # to burn the ends of the wristband
     gig_stuff,
     rain_stuff,
 ]
 
 swimming_pool_stuff = [
     sport_locker_room_stuff,
-    'swimming suit (swimming-pool)',
-    'swimming goggles',
-    'swimming hat',
-    'nose clip',
-    'fins',
-    'pull-buoy',
-    'bag for wet clothes',
+    "swimming suit (swimming-pool)",
+    "swimming goggles",
+    "swimming hat",
+    "nose clip",
+    "fins",
+    "pull-buoy",
+    "bag for wet clothes",
 ]
 
 sauna_hammam = [
-    'swimming suit (sauna)',
-    'towel (sauna)',
-    'bath robe',
-    'flip-flop',
-    'black soap',
-    'scrubbing glove',
+    "swimming suit (sauna)",
+    "towel (sauna)",
+    "bath robe",
+    "flip-flop",
+    "black soap",
+    "scrubbing glove",
 ]
 
 skiing_stuff = [
     sun_stuff,
     very_cold_stuff,
     extreme_sport_stuff,
-    'ski goggles',
-    'ski helmet',
-    'snow boot',
-    'muscle healing cream',
+    "ski goggles",
+    "ski helmet",
+    "snow boot",
+    "muscle healing cream",
     swimming_pool_stuff,
     sauna_hammam,
 ]
 
 climbing = [
     extreme_sport_stuff,
-    'climbing shoes',
-    'harness',
-    'rope',
-    'climbing clothes',
-    'descender',
-    'quickdraws',
-    'chalk',
-    'belay gloves',
-    'nail clippers',
-    'belaying glasses',
+    "climbing shoes",
+    "harness",
+    "rope",
+    "climbing clothes",
+    "descender",
+    "quickdraws",
+    "chalk",
+    "belay gloves",
+    "nail clippers",
+    "belaying glasses",
 ]
 
 indoor_climbing = [
     climbing,
-    'tickets/card for indoor climbing',
+    "tickets/card for indoor climbing",
 ]
 
 outdoor_climbling = [
-    'climbing helmet',
-    'climbing lanyard',
+    "climbing helmet",
+    "climbing lanyard",
 ]
 
 # Split into "rando" and "rando_pedestre" for stuff useful for bike as well
 hiking_stuff = [
-    'maps',
-    'compass',
-    'walking shoes',
-    'walking poles',
-    'water',
-    'snacks',
-    'flashlight',
-    'splint',
+    "maps",
+    "compass",
+    "walking shoes",
+    "walking poles",
+    "water",
+    "snacks",
+    "flashlight",
+    "splint",
     first_aid_kit,
     basic_observation,
 ]
 
 interstellar_hitch_hiking_stuff = [
-    'towel',
-    'Hitchhiker\'s Guide to the Galaxy',
+    "towel",
+    "Hitchhiker's Guide to the Galaxy",
 ]
 
 girl_stuff = [
-    'stuff for period (tampon, sanitary pads, menstrual panties, menstrual cups, related medicine)',
-    'stand-to-pee device',
+    "stuff for period (tampon, sanitary pads, menstrual panties, menstrual cups, related medicine)",
+    "stand-to-pee device",
 ]
 
 leave_work_for_days = [
-    'setup out of the office automatic response',
-    'cleanup the desk',
+    "setup out of the office automatic response",
+    "cleanup the desk",
 ]
 
 leave_home_for_days = [
-    'water the flowers',
-    'empty the bins',
-    'empty the fridge',
-    'unplug useless eletric equipments',
+    "water the flowers",
+    "empty the bins",
+    "empty the fridge",
+    "unplug useless eletric equipments",
 ]
 
 leave_country_for_days = [
-    'notify the bank',
+    "notify the bank",
 ]
 
 leave_for_holidays = [
-    'disable alarm clock',
-    'remove useless items from wallet',
+    "disable alarm clock",
+    "remove useless items from wallet",
 ]
 
 back_from_holidays = [
-    'enable alarm clock',
-    'add everything back in the wallet',
+    "enable alarm clock",
+    "add everything back in the wallet",
 ]
